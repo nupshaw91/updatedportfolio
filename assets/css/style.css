@@ -1,0 +1,43 @@
+#container{
+    height: 960px;
+}
+nav {
+    margin-bottom: 50px;
+}
+#about{
+    /* border: solid; */
+    width: 800px;
+    height: 800px;
+    margin-top: 10px; 
+    position: relative;
+    left: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card{
+    left: 200px;
+}
+
+#about span {
+    color: rgb(253, 22, 22);  
+}
+#about img{
+    width: 444px;
+    height: 500px;
+    
+}
+#contact{
+    width: 800px;
+    height: 600px;
+}
+
+#projects{
+    border:black solid;
+    border-width: 5px ;
+    width: 600px;
+    height: 600px;
+    margin: 10px;
+}
+.carousel-slider img{
+    width: 200px;
+    height: 200px;
+}
