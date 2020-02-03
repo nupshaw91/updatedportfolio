@@ -22,12 +22,7 @@ nav {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #projects{
-    
-    width: 800px;
-    height: 800px;
     margin-top: 10px; 
-    position: relative;
-    left: 250px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -38,12 +33,10 @@ nav {
 .tabs{
     background-color: transparent;
 }
-
-.carousel{
-    color: black;
-    }
 .carousel img{
-    width: 300px;
-    height: 250px;
+width: 200%;
+height: 115%;
 }
-
+.indicators{
+    top: 30px;
+}
