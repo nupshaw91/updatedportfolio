@@ -9,3 +9,5 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
       
+//   const mobile_nav = document.querySelectorAll(".sidenav");
+//   M.Sidenav.init(mobile_nav,{});
