@@ -19,7 +19,11 @@ nav {
     color: whitesmoke;
     background-color: transparent;
     margin-top: 10px; 
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.card small{
+    height: 10px;
+    bottom: 10 px;
 }
 #projects{
     margin-top: 10px; 
@@ -37,6 +41,6 @@ nav {
 width: 200%;
 height: 115%;
 }
-.indicators{
+/* .indicators{
     top: 30px;
-}
+} */
